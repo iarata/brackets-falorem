@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<div dir="rtl">
 
-You can use the [editor on GitHub](https://github.com/aratads/brackets-falorem/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# brackets-falorem
+افزونه لورم ایپسوم فارسی برای [Brackets](http://brackets.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+لورم ایپسوم یا طرح‌نما (به انگلیسی: Lorem ipsum) به متنی آزمایشی و بی‌معنی در صنعت چاپ، صفحه‌آرایی و طراحی گرافیک گفته می‌شود. طراح گرافیک از این متن به عنوان عنصری از ترکیب بندی برای پر کردن صفحه و ارایه اولیه شکل ظاهری و کلی طرح سفارش گرفته شده استفاده می نماید، تا از نظر گرافیکی نشانگر چگونگی نوع و اندازه فونت و ظاهر متن باشد
 
-### Markdown
+## آخرین امکانات اضافه شده:
+- امکان تعیین تعداد کلمات
+- حذف کاراکترهای اضافی مثل پرانتزها برای تمیزتر شدن
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## نصب و استفاده
+برای نصب این افزونه در نرم افزار براکتز ابتدا روی دکمه‌ای که در تصویر می‌بینید کلیک کنید:
 
-```markdown
-Syntax highlighted code block
+![brackets install extension](http://brackets.dnbard.com/images/extensions1.png)
 
-# Header 1
-## Header 2
-### Header 3
+سپس در پنجره‌ای که باز می‌شود کمی صبر کنید تا بارگذاری لیست افزونه‌ها تمام شود و در قسمت جستجو تایپ کنید: **falorem**
+و بعد از یافتن آن روی دکمه‌ی install مربوط به آن کلیک کنید تا نصب شود.
 
-- Bulleted
-- List
+جهت استفاده از افزونه کلمه زیر را در برنامه تایپ کنید و سپس اینتر را بزنید
 
-1. Numbered
-2. List
+```falorem```
+همچنین جهت تعیین تعداد کلمات باید تعداد کلمات مورد نظر را بعد از `falorem` و بدون فاصله به صورت عددی بنویسید.
 
-**Bold** and _Italic_ and `Code` text
+```falorem50 // این دستور لورم ایپسومی به تعداد 50 کلمه تولید می کند.```
 
-[Link](url) and ![Image](src)
-```
+*کپی رایت برای نویسنده [PLorem](https://github.com/sabereen/brackets-plorem) محفوظ است*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aratads/brackets-falorem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
