@@ -12,7 +12,7 @@
 ## نصب و استفاده
 برای نصب این افزونه در نرم افزار براکتز ابتدا روی دکمه‌ای که در تصویر می‌بینید کلیک کنید:
 
-![brackets install extension](http://brackets.dnbard.com/images/extensions1.png)
+![brackets install extension](https://raw.githubusercontent.com/aratads/brackets-falorem/master/brackets.png)
 
 سپس در پنجره‌ای که باز می‌شود کمی صبر کنید تا بارگذاری لیست افزونه‌ها تمام شود و در قسمت جستجو تایپ کنید: **falorem**
 و بعد از یافتن آن روی دکمه‌ی install مربوط به آن کلیک کنید تا نصب شود.
