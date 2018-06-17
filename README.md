@@ -26,4 +26,6 @@
 
 *کپی رایت برای نویسنده [PLorem](https://github.com/sabereen/brackets-plorem) محفوظ است*
 
+
+- طراحی شده توسط [Arata Design Studio](https://alireza.tokyo)
 </div>
